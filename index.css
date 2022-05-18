@@ -21,13 +21,16 @@ body
 h1
 {
   position: center;
+  margin: 0 auto;
 };
 p
 {
  position: center;
+  margin: 0 auto;
 };
 header
 {
  position: center;
+  margin: 0 auto;
 }
 
