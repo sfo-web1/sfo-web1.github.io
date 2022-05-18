@@ -18,4 +18,16 @@ body
  
  
 };
+h1
+{
+  position: center;
+};
+p
+{
+ position: center;
+};
+header
+{
+ position: center;
+}
 
