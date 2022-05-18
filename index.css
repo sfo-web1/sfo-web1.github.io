@@ -1,10 +1,8 @@
 *{
-  background-color=pink;
-     font-family: 'zantrokeregular';
-    src: url('fonts/zantroke-webfont.woff2') format('woff2'),
-         url('fonts/zantroke-webfont.woff') format('woff');
+  background-color:pink;
+     font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-style: normal;
-  position center;
+  position: center;
 };
 
