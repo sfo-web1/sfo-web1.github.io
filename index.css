@@ -23,11 +23,12 @@ h1
   position: center;
   margin: 0 auto;
   text-align:center;
+  word-spacing: 0.25em;
 };
 
 p
 {
- position: center;
+text-align: center;
   margin: 0 auto;
   word-spacing: 0.25em;
 };
