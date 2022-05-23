@@ -8,7 +8,7 @@
 body
 {
    
- text-align: center;
+
   font-family: Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-style: normal;
@@ -34,7 +34,9 @@ text-align: center;
 };
 header
 {
+ text-align: center;
  position: center;
   margin: 0 auto;
+  word-spacing: 0.25em;
 }
 
