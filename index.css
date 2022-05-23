@@ -22,7 +22,9 @@ h1
 {
   position: center;
   margin: 0 auto;
+  text-align:center;
 };
+
 p
 {
  position: center;
