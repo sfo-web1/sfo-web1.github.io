@@ -5,13 +5,16 @@
     font-style: normal;
  
 }; */
+html
+{
+  font-family:'Space Mono', monospace;
+    font-weight: normal;
+}
 body
 {
    
 
-  font-family:'Space Mono', monospace;
-    font-weight: normal;
-   
+
   margin: 0 auto;
  backgound-color: rgb(240,232,220);
 
