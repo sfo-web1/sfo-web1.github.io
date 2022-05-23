@@ -9,7 +9,7 @@ body
 {
    
 
-  font-family: 'Lobster', cursive;
+  font-family:'Space Mono', monospace;
     font-weight: normal;
    
   margin: 0 auto;
@@ -40,6 +40,6 @@ header
  position: center;
   margin: 0 auto;
   word-spacing: 0.25em;
- font-family: 'Lobster', cursive;
+font-family:'Space Mono', monospace;
 }
 
