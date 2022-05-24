@@ -8,7 +8,7 @@
 html
 {
   font-family:'Space Mono', monospace;
-    font-weight: normal;
+    font-weight: bold;
 }
 body
 {
@@ -16,7 +16,7 @@ body
 
 
   margin: 0 auto;
- backgound-color: rgb(240,232,220);
+ background-color: rgb(254,232,220);
 
  
  
