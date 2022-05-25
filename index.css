@@ -4,16 +4,10 @@ html
   font-family:'Space Mono', monospace;
     font-weight: bold;
 }
-body
-{
-   
-background:#d271f5;
-  //<!--color: #CAB;-->
-  padding: 25px;
-  //font-family: sans-serif;
+body{
+  background:#d271f5;
 }
-h1
-{
+h1{
   position: center;
   margin:auto;
   text-align:center;
@@ -21,25 +15,21 @@ h1
  font-family:'Space Mono', monospace;
 }
 
-h3
-{
-text-align: center;
+h3{
+  text-align: center;
   margin: auto;
   word-spacing: 10px;
  font-family: 'Lobster', cursive;
 }
-header
-{
+header{
  text-align: center;
  position: center;
   margin: auto;
   word-spacing: 0.25em;
 font-family:'Space Mono', monospace;
 }
-img
-{
-   position: center;
-  margin: auto;
-  
-}
+img{
+position: center;
+margin: auto;
+  }
 
