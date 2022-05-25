@@ -8,7 +8,13 @@ h2{
   word-spacing: 0.25em;
  font-family:'Space Mono', monospace;
 }
-h1,h3{
+h1{
+  text-align: center;
+  margin: auto;
+  word-spacing: 20px;
+ font-family: 'Lobster', cursive;
+}
+h3{
   text-align: center;
   margin: auto;
   word-spacing: 20px;
