@@ -7,15 +7,15 @@ html
 body
 {
    
-background: #f53d8a;
-  //color: #CAB;
+background: #e60d09;
+  //<!--color: #CAB;-->
   padding: 25px;
   //font-family: sans-serif;
 }
 h1
 {
   position: center;
-  margin: 0 auto;
+  margin:auto;
   text-align:center;
   word-spacing: 0.25em;
  font-family:'Space Mono', monospace;
@@ -24,7 +24,7 @@ h1
 p
 {
 text-align: center;
-  margin: 0 auto;
+  margin: auto;
   word-spacing: 10px;
  font-family: 'Lobster', cursive;
 }
@@ -32,7 +32,7 @@ header
 {
  text-align: center;
  position: center;
-  margin: 0 auto;
+  margin: auto;
   word-spacing: 0.25em;
 font-family:'Space Mono', monospace;
 }
