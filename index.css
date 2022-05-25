@@ -7,7 +7,7 @@ html
 body
 {
    
-background: #e60d09;
+background:#d271f5;
   //<!--color: #CAB;-->
   padding: 25px;
   //font-family: sans-serif;
@@ -35,5 +35,11 @@ header
   margin: auto;
   word-spacing: 0.25em;
 font-family:'Space Mono', monospace;
+}
+img
+{
+   position: center;
+  margin: auto;
+  
 }
 
