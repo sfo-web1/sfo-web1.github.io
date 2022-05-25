@@ -1,11 +1,7 @@
 
-html
-{
-  font-family:'Space Mono', monospace;
-    font-weight: bold;
-}
+
 body{
-  background:#d271f5;
+  background:#bf0d10;
 }
 h1{
   position: center;
@@ -18,7 +14,7 @@ h1{
 h3{
   text-align: center;
   margin: auto;
-  word-spacing: 10px;
+  word-spacing: 20px;
  font-family: 'Lobster', cursive;
 }
 header{
