@@ -16,7 +16,7 @@ h1{
 }
 h3{
   text-align: center;
-  margin: auto;
+ 
   word-spacing: 20px;
  font-family: 'Lobster', cursive;
 }
@@ -28,7 +28,9 @@ header{
 font-family:'Space Mono', monospace;
 }
 img{
+  vertical-align: -moz-middle-with-baseline;
   object-position: 50% 50%;
   border-radius: 50% 20% / 10% 40%;
+  object-fit: scale-down;
   }
 
