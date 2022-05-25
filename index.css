@@ -17,7 +17,7 @@ background: #A19;
   color: #CAB;
   padding: 25px;
   font-family: sans-serif;
-};
+}
 h1
 {
   position: center;
@@ -25,7 +25,7 @@ h1
   text-align:center;
   word-spacing: 0.25em;
  font-family: 'Lobster', cursive;
-};
+}
 
 p
 {
@@ -33,7 +33,7 @@ text-align: center;
   margin: 0 auto;
   word-spacing: 10px;
  font-family: 'Lobster', cursive;
-};
+}
 header
 {
  text-align: center;
