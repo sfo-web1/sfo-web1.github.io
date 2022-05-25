@@ -1,10 +1,4 @@
-/*{
- 
-     font-family: Helvetica, Arial, sans-serif;
-    font-weight: normal;
-    font-style: normal;
- 
-}; */
+
 html
 {
   font-family:'Space Mono', monospace;
@@ -14,9 +8,9 @@ body
 {
    
 background: #f53d8a;
-  color: #CAB;
+  //color: #CAB;
   padding: 25px;
-  font-family: sans-serif;
+  //font-family: sans-serif;
 }
 h1
 {
@@ -24,7 +18,7 @@ h1
   margin: 0 auto;
   text-align:center;
   word-spacing: 0.25em;
- font-family: 'Lobster', cursive;
+ font-family:'Space Mono', monospace;
 }
 
 p
