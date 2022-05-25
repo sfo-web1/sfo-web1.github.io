@@ -1,17 +1,14 @@
-
-
 body{
   background:#bf0d10;
 }
-h1{
+h2{
   position: center;
   margin:auto;
   text-align:center;
   word-spacing: 0.25em;
  font-family:'Space Mono', monospace;
 }
-
-h3{
+h1,h3{
   text-align: center;
   margin: auto;
   word-spacing: 20px;
@@ -25,7 +22,7 @@ header{
 font-family:'Space Mono', monospace;
 }
 img{
-position: center;
-margin: auto;
+  object-position: 50% 50%;
+  border-radius: 50% 20% / 10% 40%;
   }
 
