@@ -10,7 +10,7 @@ h2{
 }
 h1{
   text-align: center;
-  margin: auto;
+  
   word-spacing: 20px;
  font-family: 'Lobster', cursive;
 }
@@ -20,12 +20,7 @@ h3{
   word-spacing: 20px;
  font-family: 'Lobster', cursive;
 }
-header{
- text-align: center;
- position: center;
-  margin: auto;
-  word-spacing: 0.25em;
-font-family:'Space Mono', monospace;
+
 }
 #sfocat img{
   vertical-align: -moz-middle-with-baseline;
