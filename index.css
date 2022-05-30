@@ -27,7 +27,7 @@ header{
   word-spacing: 0.25em;
 font-family:'Space Mono', monospace;
 }
-#sfocat{
+#sfocat img{
   vertical-align: -moz-middle-with-baseline;
   object-position: 50% 50%;
   border-radius: 50% 20% / 10% 40%;
@@ -35,7 +35,7 @@ font-family:'Space Mono', monospace;
   max-heigth=500px;
   max-width:500px;
   }
-#sfo{
+#sfo img{
    border-radius: 25% 10%;
   object-position: 50% 50%;
   object-fit: scale-down;
