@@ -35,4 +35,10 @@ img{
   max-heigth=500px;
   max-width:500px;
   }
-
+#sfo{
+  
+  object-position: 50% 50%;
+  object-fit: scale-down;
+  max-heigth=500px;
+  max-width:500px;
+  }
