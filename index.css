@@ -36,7 +36,7 @@ font-family:'Space Mono', monospace;
   max-width:500px;
   }
 #sfo{
-  
+   border-radius: 25% 10%;
   object-position: 50% 50%;
   object-fit: scale-down;
   max-heigth=500px;
