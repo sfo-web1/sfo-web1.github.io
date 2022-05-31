@@ -34,7 +34,6 @@ h3{
   border-width: thick;
   border-style: dashed;
   border-color: red;
-   border-radius: 50% ;
   object-position: 50% 50%;
   object-fit: scale-down;
   max-heigth=500px;
