@@ -1,5 +1,6 @@
 body{
   background:#c26ded;
+  
 }
 h2{
   position: center;
@@ -34,11 +35,10 @@ h3{
   border-width: thick;
   border-style: dashed;
   border-color: red;
-  object-position: 50% 50%;
+ object-position: center;
   object-fit: scale-down;
   max-heigth=500px;
   max-width:500px;
-   display: flex;
     align-items: center;
     justify-content: center;
   }
