@@ -1,6 +1,7 @@
 body{
   background:#c26ded;
-   
+   align-items: center;
+   object-position: 50% 50%;
 }
 h2{
   position: center;
