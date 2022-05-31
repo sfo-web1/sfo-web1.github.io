@@ -1,6 +1,7 @@
 body{
   background:#c26ded;
-   align-items: center;
+     align-items: center;
+    justify-content: center;
    object-position: 50% 50%;
 }
 h2{
@@ -30,6 +31,8 @@ h3{
   object-fit: scale-down;
   max-heigth=500px;
   max-width:500px;
+    align-items: center;
+    justify-content: center;
   }
 #sfo img{
   border-width: thick;
